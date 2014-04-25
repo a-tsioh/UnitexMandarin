@@ -1,0 +1,27 @@
+#Unigraph
+SIZE 1188 840
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+7
+"<E>" 70 200 2 2 6 
+"" 819 191 0 
+"<NUM><<[一二三四五六七八九]|一[一二四五]?|[12345][0-9]|[１２３４５][０-９0-9]>>" 111 109 2 3 4 
+"點+时" 771 183 1 1 
+"點" 738 244 1 5 
+"鐘" 789 252 1 1 
+"<ZHDIGIT><<[一二三四五六七八九]>>" 68 347 2 3 4 

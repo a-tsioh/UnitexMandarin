@@ -1,0 +1,8 @@
+#Unitex configuration file
+#Fri Apr 18 11:02:58 CST 2014
+ICON\ BAR\ POSITION=North
+MAX\ TEXT\ FILE\ SIZE=2097152
+INPUT\ FONT\ SIZE=18
+ENCODING=UTF8
+LOGGING\ DIR=/home/pierre/T\u00E9l\u00E9chargements/Unitex3.0/App
+CHAR\ BY\ CHAR=true

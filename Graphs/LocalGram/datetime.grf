@@ -1,0 +1,38 @@
+#Unigraph
+SIZE 1618 915
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME y
+DDATE y
+DFILE y
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+18
+"<E>" 43 179 1 17 
+"" 926 249 0 
+":year" 165 155 2 3 5 
+":month" 171 228 2 4 5 
+":day" 174 273 1 5 
+"<E>" 341 205 2 12 13 
+":dayperiod" 489 123 2 7 15 
+":hour" 504 184 2 8 15 
+":minute" 496 257 2 9 15 
+":second" 490 303 1 15 
+"<E>/,.DATETIME}" 800 248 1 1 
+"$content(" 125 202 3 2 3 4 
+"$content)" 520 431 1 16 
+"<E>" 392 209 4 6 7 8 9 
+"$content(" 321 32 4 6 7 8 9 
+"$content)" 640 165 1 16 
+"<E>" 746 251 1 10 
+"<E>/{" 80 179 2 14 11 

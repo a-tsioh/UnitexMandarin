@@ -1,0 +1,10 @@
+0000000001
+-1 allnumbers
+: 2 2 1 1 
+t 
+t 2 2 
+f 
+%<E>
+%<NUM>
+%<ZHDIGIT>
+f
