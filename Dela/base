@@ -11,6 +11,8 @@
 」,」.PUNCT
 『,『.PUNCT
 』,』.PUNCT
+）,）.PUNCT
+（,（.PUNCT
 一,一.ZHDIGIT
 二,二.ZHDIGIT
 三,三.ZHDIGIT
@@ -22,6 +24,8 @@
 九,九.ZHDIGIT
 零,零.ZHDIGIT
 〇,〇.ZHDIGIT
+○,○.ZHDIGIT
+十,十.ZHDIGIT
 十,十.ORD
 百,百.ORD
 千,千.ORD
