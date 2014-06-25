@@ -6,7 +6,7 @@
 t 
 f 
 %<E>
-%<MOT>
+%<!KEYWORD><<[a-zA-Z ]+>>
 %<E>/,.LATIN}
 %<E>/{
 f
